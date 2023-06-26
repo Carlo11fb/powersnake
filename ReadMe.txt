@@ -1,7 +1,8 @@
-Per eseguire powersnake.py è necessario avere installato Windows Powershell o Windows Terminal.
+Per eseguire powersnake.py è necessario avere installato Windows Powershell. NON è compatibile con Windows 11!
 
 Procedimento:
-Aprire in questa cartella una finestra di Powershell e digitare i seguenti comandi: "python powersnake.py" e premere invio.
+Aprire in questa cartella una finestra di Powershell e digitare "pip install windows-curses", premere invio e aspettare, poi digitare "python powersnake.py" e premere invio.
+Il gioco si aprirà e ci si potrà giocare.
 
 In questo gioco ci si muove con le freccette.
 
