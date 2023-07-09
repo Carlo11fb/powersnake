@@ -1,4 +1,4 @@
-Per eseguire powersnake.py è necessario avere installato Windows Powershell. NON è compatibile con Windows 11!
+Per eseguire powersnake.py è necessario avere installato Windows Powershell. NON è compatibile con Windows 11! (eppure lo ho scritto con Windows 11)
 
 Procedimento:
 Aprire in questa cartella una finestra di Powershell e digitare "pip install windows-curses", premere invio e aspettare, poi digitare "python powersnake.py" e premere invio.
